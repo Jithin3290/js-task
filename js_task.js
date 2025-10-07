@@ -1,4 +1,4 @@
- //pure fn
+  //pure fn
 function calculateTotal(price, tax)
 {
     let tot = price + tax
