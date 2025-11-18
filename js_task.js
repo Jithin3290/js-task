@@ -1,4 +1,4 @@
-     function calculateTotal(price, tax)
+function calculateTotal(price, tax)
 {
     let tot = price + tax
     return tot
